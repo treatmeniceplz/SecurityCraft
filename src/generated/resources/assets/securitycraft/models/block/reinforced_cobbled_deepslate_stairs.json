@@ -1,8 +1,0 @@
-{
-  "parent": "securitycraft:block/reinforced_stairs",
-  "textures": {
-    "side": "minecraft:block/cobbled_deepslate",
-    "bottom": "minecraft:block/cobbled_deepslate",
-    "top": "minecraft:block/cobbled_deepslate"
-  }
-}

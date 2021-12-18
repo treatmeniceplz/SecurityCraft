@@ -1,8 +1,0 @@
-{
-  "parent": "securitycraft:block/reinforced_slab",
-  "textures": {
-    "side": "minecraft:block/oak_planks",
-    "bottom": "minecraft:block/oak_planks",
-    "top": "minecraft:block/oak_planks"
-  }
-}

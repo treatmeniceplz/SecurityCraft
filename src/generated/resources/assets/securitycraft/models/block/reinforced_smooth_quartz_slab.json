@@ -1,8 +1,0 @@
-{
-  "parent": "securitycraft:block/reinforced_slab",
-  "textures": {
-    "side": "minecraft:block/quartz_block_bottom",
-    "bottom": "minecraft:block/quartz_block_bottom",
-    "top": "minecraft:block/quartz_block_bottom"
-  }
-}

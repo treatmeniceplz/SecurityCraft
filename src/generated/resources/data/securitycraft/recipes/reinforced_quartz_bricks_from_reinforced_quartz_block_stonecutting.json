@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "securitycraft:reinforced_quartz_block"
-  },
-  "result": "securitycraft:reinforced_quartz_bricks",
-  "count": 1
-}

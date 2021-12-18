@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "securitycraft:reinforced_deepslate_tiles"
-  },
-  "result": "securitycraft:reinforced_deepslate_tile_wall",
-  "count": 1
-}

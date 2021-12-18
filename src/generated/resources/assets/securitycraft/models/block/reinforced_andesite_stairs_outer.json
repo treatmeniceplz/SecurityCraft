@@ -1,8 +1,0 @@
-{
-  "parent": "securitycraft:block/reinforced_outer_stairs",
-  "textures": {
-    "side": "minecraft:block/andesite",
-    "bottom": "minecraft:block/andesite",
-    "top": "minecraft:block/andesite"
-  }
-}
